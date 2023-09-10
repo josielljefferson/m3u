@@ -10,9 +10,9 @@
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ATV - AO VIVO E ENJOY CINEMA" tvg-logo="https://nsfw-dl.glitch.me/1001953408171/10748" group-title="ATV",ATV - AO VIVO E ENJOY CINEMA
 https://nsfw-dl.glitch.me/1001953408171/10745
 
-#EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10 HD" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="00 - PIAUÍ TV",ANTENA 10 HD
-https://livefocamundo.com:8081/robertobrito/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="O Dia TV HD" tvg-logo="https://i.imgur.com/xbPIEDD.png" group-title="00 - PIAUÍ TV",O Dia TV HD
+#EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="00 - PIAUÍ TV",ANTENA 10
+https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/chunklist_w1244087222_b1396000.m3u8
+#EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="O Dia TV" tvg-logo="https://i.imgur.com/xbPIEDD.png" group-title="00 - PIAUÍ TV",O Dia TV
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1921501568.m3u8
 #EXTINF:-1 tvg-id="m3u4u.com" tvg-name="Playlist iMPlayer" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="00 - PIAUÍ TV",Playlist iMPlayer
 http://m3u4u.com/m3u/p192y715q9a3megeymeg
@@ -22,12 +22,8 @@ http://m3u4u.com/m3u/v158yx6p37c6zew8y9mw
 https://59e4b6c1beddc.streamlock.net:443/ronaldoalepi/ronaldoalepi/chunklist_w1701113023.m3u8
 #EXTINF:-1 tvg-id="TVCidadeVerde.br" tvg-name="TV CIDADE VERDE PICOS" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title="00 - PIAUÍ TV",TV CIDADE VERDE PICOS
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w1496024979.m3u8
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="TV CIDADE VERDE PICOS FHD" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title="00 - PIAUÍ TV",TV CIDADE VERDE PICOS FHD
-https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w685970594.m3u8
 #EXTINF:-1 tvg-id="TVCidadeVerde.br" tvg-name="TV CIDADE VERDE TERESINA" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title="00 - PIAUÍ TV",TV CIDADE VERDE TERESINA
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1115557601.m3u8
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="TV CIDADE VERDE TERESINA HD" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title="00 - PIAUÍ TV",TV CIDADE VERDE TERESINA HD
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1094170448.m3u8
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="TV Gallo" tvg-logo="https://i.imgur.com/Go7equc.png" group-title="00 - PIAUÍ TV",TV Gallo
 https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w974707802.m3u8
 #EXTINF:-1 tvg-id="Playboy.br" tvg-name="69 Tons de Pica - CENA 01" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-tons-de-pica-Frente-650.jpg?v=2" group-title="000 - BRASILEIRINHAS",69 Tons de Pica - CENA 01
