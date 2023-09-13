@@ -1,15 +1,5 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/v158yx6p37c6zew8y9mw"
-#EXTM3U url-tvg="http://m3u4u.com/epg/p192y715q9a3megeymeg"
-#EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3jr29cq3zjmyv7j"
 #EXTM3U url-tvg="https://josieljefferson.com.br/epg"
-
-#EXTM3U url-tvg="http://m3u4u.com/xml/v158yx6p37c6zew8y9mw"
-#EXTM3U url-tvg="http://m3u4u.com/xml/p192y715q9a3megeymeg"
-#EXTM3U url-tvg="http://m3u4u.com/xml/26p5n3jr29cq3zjmyv7j"
-
-#EXTM3U url-tvg="http://m3u4u.com/m3u/v158yx6p37c6zew8y9mw"
-#EXTM3U url-tvg="http://m3u4u.com/m3u/p192y715q9a3megeymeg"
-#EXTM3U url-tvg="http://m3u4u.com/m3u/26p5n3jr29cq3zjmyv7j"
+#EXTM3U url-tvg="http://m3u4u.com/epg/v158yx6p37c6zew8y9mw"
 
 #EXTINF:-1 tvg-id="m3u4u.com" tvg-name="iMPlayer" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="00 - PIAUÍ TV",iMPlayer
 https://josieljefferson.com.br/iMPlayer
@@ -17,13 +7,6 @@ https://josieljefferson.com.br/iMPlayer
 https://josieljefferson.com.br/m3u4u.1
 #EXTINF:-1 tvg-id="m3u4u.com" tvg-name="Brasileirinhas Reduzida" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="00 - PIAUÍ TV",Brasileirinhas Reduzida
 https://josieljefferson.com.br/m3u4u.2
-
-#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="iMPlayer" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="00 - PIAUÍ TV",iMPlayer
-http://m3u4u.com/m3u/p192y715q9a3megeymeg
-#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="Brasileirinhas Completo" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="00 - PIAUÍ TV",Brasileirinhas Completo
-http://m3u4u.com/m3u/v158yx6p37c6zew8y9mw
-#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="Brasileirinhas Reduzida" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="00 - PIAUÍ TV",Brasileirinhas Reduzida
-http://m3u4u.com/m3u/26p5n3jr29cq3zjmyv7j
 
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ATV - AO VIVO E ENJOY CINEMA" tvg-logo="https://nsfw-dl.glitch.me/1001953408171/10748" group-title="ATV",ATV - AO VIVO E ENJOY CINEMA
 https://nsfw-dl.glitch.me/1001953408171/10745
