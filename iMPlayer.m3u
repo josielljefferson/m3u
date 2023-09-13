@@ -1,11 +1,21 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/p192y715q9a3megeymeg"
-#EXTM3U url-tvg="http://m3u4u.com/xml/p192y715q9a3megeymeg"
-#EXTM3U url-tvg="http://m3u4u.com/m3u/p192y715q9a3megeymeg"
-
 #EXTM3U url-tvg="http://m3u4u.com/epg/v158yx6p37c6zew8y9mw"
-#EXTM3U url-tvg="http://m3u4u.com/xml/v158yx6p37c6zew8y9mw"
-#EXTM3U url-tvg="http://m3u4u.com/m3u/v158yx6p37c6zew8y9mw"
+#EXTM3U url-tvg="http://m3u4u.com/epg/p192y715q9a3megeymeg"
+#EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3jr29cq3zjmyv7j"
 
+#EXTM3U url-tvg="http://m3u4u.com/xml/v158yx6p37c6zew8y9mw"
+#EXTM3U url-tvg="http://m3u4u.com/xml/p192y715q9a3megeymeg"
+#EXTM3U url-tvg="http://m3u4u.com/xml/26p5n3jr29cq3zjmyv7j"
+
+#EXTM3U url-tvg="http://m3u4u.com/m3u/v158yx6p37c6zew8y9mw"
+#EXTM3U url-tvg="http://m3u4u.com/m3u/p192y715q9a3megeymeg"
+#EXTM3U url-tvg="http://m3u4u.com/m3u/26p5n3jr29cq3zjmyv7j"
+
+#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="iMPlayer" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="00 - PIAUÍ TV",iMPlayer
+http://m3u4u.com/m3u/p192y715q9a3megeymeg
+#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="Brasileirinhas Completo" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="00 - PIAUÍ TV",Brasileirinhas Completo
+http://m3u4u.com/m3u/v158yx6p37c6zew8y9mw
+#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="Brasileirinhas Reduzida" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="00 - PIAUÍ TV",Brasileirinhas Reduzida
+http://m3u4u.com/m3u/26p5n3jr29cq3zjmyv7j
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10 HD" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="PIAUÍ TV",ANTENA 10 HD
 https://livefocamundo.com:8081/robertobrito/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="O Dia TV HD" tvg-logo="https://i.imgur.com/xbPIEDD.png" group-title="PIAUÍ TV",O Dia TV HD
@@ -22,7 +32,6 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1094170448.m3u8
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="TV Gallo" tvg-logo="https://i.imgur.com/Go7equc.png" group-title="PIAUÍ TV",TV Gallo
 https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w974707802.m3u8
-
 #EXTINF:-1 tvg-id="Playboy.br" tvg-name="69 Tons de Pica - CENA 01" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-tons-de-pica-Frente-650.jpg" group-title="XXX - BRASILEIRINHAS",69 Tons de Pica - CENA 01
 https://videos01.brasileirinhas.com.br/vod/50i6YsKWg/chunklist_w220027026_b4000000_t64MTA4MFA=.m3u8
 #EXTINF:-1 tvg-id="Playboy.br" tvg-name="69 Tons de Pica - CENA 02" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-tons-de-pica-Frente-650.jpg" group-title="XXX - BRASILEIRINHAS",69 Tons de Pica - CENA 02
@@ -2591,8 +2600,6 @@ https://videos01.brasileirinhas.com.br/vod/8jcJQjQXg/chunklist_w1079380780_b4000
 https://videos01.brasileirinhas.com.br/vod/MiVdVoQXg/chunklist_w376190017_b4000000_t64MTA4MFA=.m3u8
 #EXTINF:-1 tvg-id="Playboy.br" tvg-name="Camila Mineira Safadaa" tvg-logo="https://i.imgur.com/oOgG1I0.jpeg" group-title="XXX - PORN STARS",Camila Mineira Safadaa
 https://dl.dropboxusercontent.com/s/w7f7dqhsbb7izsh/Camila_Mineira_Safadaa.mp4?dl=0
-##EXTINF:-1 tvg-id="Playboy.br" tvg-name="Camila Mineira Safadaa - Google Drive" tvg-logo="https://i.imgur.com/oOgG1I0.jpeg" group-title="XXX - PORN STARS",Camila Mineira Safadaa - Google Drive
-##https://drive.google.com/u/1/uc?id=1-6qG1lL4zl_LCN1Hy-3uO78e-rfnqJ7n&export=download
 #EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="BABALU BATE SIRIRICA E FAZ ANAL SEM CAMISINHA - ESTRELAS EM BUSCA DE PRAZER" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/pornstars/perfil/gostosa-babalu-46.jpg" group-title="XXX - PORN STARS",BABALU BATE SIRIRICA E FAZ ANAL SEM CAMISINHA - ESTRELAS EM BUSCA DE PRAZER
 https://videos01.brasileirinhas.com.br/vod/7QnHdaNWg/chunklist_w2143555125_b800000_t64NDgwUA==.m3u8
 #EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="BABALU CHIFROU O MARIDO E DEU O CU PARA ENTREGADOR DE GÁS - ASSINATURA DO SEXO - BABALU" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/pornstars/perfil/gostosa-babalu-46.jpg" group-title="XXX - PORN STARS",BABALU CHIFROU O MARIDO E DEU O CU PARA ENTREGADOR DE GÁS - ASSINATURA DO SEXO - BABALU
