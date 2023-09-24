@@ -10,6 +10,16 @@
 #EXTM3U url-tvg="http://m3u4u.com/m3u/p192y715q9a3megeymeg"
 #EXTM3U url-tvg="http://m3u4u.com/m3u/26p5n3jr29cq3zjmyv7j"
 
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://i.imgur.com/CLff5eG.png" group-title="PSG",Star+ - PSG X Olympique de Marselha - Multicanais
+https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2023/09/24/PSG_vs_Olympique_de_Marse_20230924_1695574829036/cmaf-cenc-ctr-1832K/1832_complete.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://i.imgur.com/CLff5eG.png" group-title="PSG",Star+ - PSG X Olympique de Marselha - Futebol Play HD
+https://live-ftc-sa-east-1.media.starott.com/gru1/qb01/starplus/event/2023/09/24/PSG_vs_Olympique_de_Marse_20230924_1695574829036/cmaf-cenc-ctr-5600K/5600_complete.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://i.imgur.com/CLff5eG.png" group-title="PSG",Star+ - PSG X Olympique de Marselha - Canais Play
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/esportes5_2000/index.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://i.imgur.com/CLff5eG.png" group-title="PSG",Star+ - PSG X Olympique de Marselha - FuteMax
+https://hjprtmfykxdvqace.cdnrecruit.net:8443/hls/qh3uoith1cywjf.m3u8?s=y97FjrxS2KKORLD_m5pzow&e=1695605775
+
+
 #EXTINF:-1 tvg-id="m3u4u.com" tvg-name="iMPlayer" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="00 - PIAUÍ TV",iMPlayer
 http://m3u4u.com/m3u/p192y715q9a3megeymeg
 #EXTINF:-1 tvg-id="m3u4u.com" tvg-name="Brasileirinhas Completo" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="00 - PIAUÍ TV",Brasileirinhas Completo
