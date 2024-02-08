@@ -17,6 +17,9 @@ https://m3u4u.com/m3u/26p5n3jr29cq3zjmyv7j
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ATV - AO VIVO E ENJOY CINEMA" tvg-logo="https://nsfw-dl.glitch.me/1001953408171/10748" group-title="ATV",ATV - AO VIVO E ENJOY CINEMA
 https://files.catbox.moe/249z1v.mp4
 https://nsfw-dl.glitch.me/1001953408171/10745
+
+#EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10 HD" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="00 - PIAUÍ TV",ALEPI TV
+https://stmv1.srvstm.com/piaui7026/piaui7026/chunklist_w150181887.m3u8
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10 HD" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="00 - PIAUÍ TV",ANTENA 10 HD
 https://livefocamundo.com:8081/robertobrito/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10 HD" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="00 - PIAUÍ TV",ANTENA 10 HD
