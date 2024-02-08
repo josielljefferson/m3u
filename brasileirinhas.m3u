@@ -20,7 +20,8 @@ http://m3u4u.com/m3u/26p5n3jr29cq3zjmyv7j
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ATV - AO VIVO E ENJOY CINEMA" tvg-logo="https://nsfw-dl.glitch.me/1001953408171/10748" group-title="ATV",ATV - AO VIVO E ENJOY CINEMA
 https://nsfw-dl.glitch.me/1001953408171/10745
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="00 - PIAUÍ TV",ANTENA 10
-https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/chunklist_w1244087222_b1396000.m3u8
+https://dvr0162dntu8s.cloudfront.net/out/v1/7445c443c5a44b03bd26c8c9623e5bbc/index_4.m3u8
+https://dvr0162dntu8s.cloudfront.net/out/v1/7445c443c5a44b03bd26c8c9623e5bbc/index_8_0.m3u8
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="O Dia TV" tvg-logo="https://i.imgur.com/xbPIEDD.png" group-title="00 - PIAUÍ TV",O Dia TV
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1921501568.m3u8
 #EXTINF:-1 tvg-id="AssembleiaLegislativaCeara.br" tvg-name="TV ASSEMBLEIA" tvg-logo="https://i.imgur.com/8EKqBY2.png" group-title="00 - PIAUÍ TV",TV ASSEMBLEIA
