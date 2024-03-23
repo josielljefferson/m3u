@@ -1,14 +1,13 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/v158yx6p37c6zew8y9mw"
 #EXTM3U url-tvg="http://m3u4u.com/epg/p192y715q9a3megeymeg"
 #EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3jr29cq3zjmyv7j"
-
-#EXTM3U url-tvg="http://m3u4u.com/xml/v158yx6p37c6zew8y9mw"
-#EXTM3U url-tvg="http://m3u4u.com/xml/p192y715q9a3megeymeg"
-#EXTM3U url-tvg="http://m3u4u.com/xml/26p5n3jr29cq3zjmyv7j"
+#EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3j99raxx4jwyv7j"
 
 #EXTM3U url-tvg="http://m3u4u.com/m3u/v158yx6p37c6zew8y9mw"
 #EXTM3U url-tvg="http://m3u4u.com/m3u/p192y715q9a3megeymeg"
 #EXTM3U url-tvg="http://m3u4u.com/m3u/26p5n3jr29cq3zjmyv7j"
+#EXTM3U url-tvg="http://m3u4u.com/m3u/26p5n3j99raxx4jwyv7j"
+
 
 #EXTINF:-1 tvg-id="m3u4u.com" tvg-name="iMPlayer" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="00 - PIAUÍ TV",iMPlayer
 http://m3u4u.com/m3u/p192y715q9a3megeymeg
@@ -16,6 +15,9 @@ http://m3u4u.com/m3u/p192y715q9a3megeymeg
 http://m3u4u.com/m3u/v158yx6p37c6zew8y9mw
 #EXTINF:-1 tvg-id="m3u4u.com" tvg-name="Brasileirinhas Reduzida" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="00 - PIAUÍ TV",Brasileirinhas Reduzida
 http://m3u4u.com/m3u/26p5n3jr29cq3zjmyv7j
+#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="TiviMate" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="00 - PIAUÍ TV",TiviMate
+http://m3u4u.com/m3u/26p5n3jr29cq3zjmyv7j
+
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10 HD" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="PIAUÍ TV",ANTENA 10 HD
 https://livefocamundo.com:8081/robertobrito/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="O Dia TV HD" tvg-logo="https://i.imgur.com/xbPIEDD.png" group-title="PIAUÍ TV",O Dia TV HD
