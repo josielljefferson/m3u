@@ -4,8 +4,8 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/p192y715q9a3megeymeg"
 #EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3jr29cq3zjmyv7j"
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="7VNX.XYZ" tvg-logo="http://7go.xyz:8080/images/ef5f02cae5b40d9dc20a97f89fb2b3d9.png" group-title="CANAIS |  ESPAÇO DO CLIENTE",7VNX.XYZ
-http://m3u4u.com/epg/3m97yp6gkdh5evvzydxq
+#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="7VNX.XYZ" tvg-logo="http://7go.xyz:8080/images/ef5f02cae5b40d9dc20a97f89fb2b3d9.png" group-title="CANAIS |  ESPAÇO DO CLIENTE",7VNX.XYZ
+http://m3u4u.com/m3u/3m97yp6gkdh5evvzydxq
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="CANAIS |  ESPAÇO DO CLIENTE",ANTENA 10
 https://dvr0162dntu8s.cloudfront.net/out/v1/7445c443c5a44b03bd26c8c9623e5bbc/index.m3u8
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="CANAIS |  ESPAÇO DO CLIENTE",ANTENA 10
