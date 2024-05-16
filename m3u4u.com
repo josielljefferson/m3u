@@ -9,44 +9,24 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/p192y715q9a3megeymeg"
 #EXTM3U url-tvg="http://m3u4u.com/epg/v158yx6p37c6zew8y9mw"
 
-#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="7VNX.XYZ" tvg-logo="http://7go.xyz:8080/images/ef5f02cae5b40d9dc20a97f89fb2b3d9.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",7VNX.XYZ
-http://m3u4u.com/m3u/3m97yp6gkdh5evvzydxq
-#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="7VNX.XYZ" tvg-logo="http://7go.xyz:8080/images/ef5f02cae5b40d9dc20a97f89fb2b3d9.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",7VNX.XYZ
-http://m3u4u.com/m3u/3m97yp6gkdh5evvzydxq
-#EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",ANTENA 10
-https://dvr0162dntu8s.cloudfront.net/out/v1/7445c443c5a44b03bd26c8c9623e5bbc/index.m3u8
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",ANTENA 10
 https://manifest.googlevideo.com/api/manifest/dash/expire/1707432931/ei/gwfFZcbBG_-J-LAPv8ewwAc/ip/45.164.59.240/id/-X7n_pSZ8U0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/spc/UWF9f5S9fGzPMotxkOGRFVDe1aMEfDfqFzqv7G7RwZZP70I/vprv/1/pacing/0/keepalive/yes/fexp/24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cas%2Cspc%2Cvprv%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAN6ja9s9FZZtG7TddHQFgRxOjofT_5LmjukwZNLm7opQAiEAyrnyNNhaCFceTQz5emTPKY50FlgNN3jmUgG4iclu8vk%3D
-#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="Brasileirinhas" tvg-logo="http://7go.xyz:8080/images/ef5f02cae5b40d9dc20a97f89fb2b3d9.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",Brasileirinhas
-http://m3u4u.com/m3u/p192y715q9a3megeymeg
-#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="BRASILEIRINHAS COMPLETO" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",BRASILEIRINHAS COMPLETO
-http://m3u4u.com/m3u/v158yx6p37c6zew8y9mw
-#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="BRASILEIRINHAS REDUZIDA" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",BRASILEIRINHAS REDUZIDA
-http://m3u4u.com/m3u/26p5n3jr29cq3zjmyv7j
-#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="Brasileirinhas Reduzida" tvg-logo="http://7go.xyz:8080/images/ef5f02cae5b40d9dc20a97f89fb2b3d9.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",Brasileirinhas Reduzida
-http://m3u4u.com/m3u/26p5n3jr29cq3zjmyv7j
+#EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",ANTENA 10
+https://dvr0162dntu8s.cloudfront.net/out/v1/7445c443c5a44b03bd26c8c9623e5bbc/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CALENDÁRIO UFC" tvg-logo="http://7go.xyz:8080/images/ef5f02cae5b40d9dc20a97f89fb2b3d9.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",CALENDÁRIO UFC
 http://cdn7go.xyz:8080/live/TcyL3jTH/23434a24322fr/197701.m3u8
+#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="EPG.M3U4U.COM" tvg-logo="http://7go.xyz:8080/images/ef5f02cae5b40d9dc20a97f89fb2b3d9.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",EPG.M3U4U.COM
+http://m3u4u.com/m3u/jq2zy9v62gfw9x37nxr5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTEBOL (HOJE)" tvg-logo="http://7go.xyz:8080/images/1761d5aea999ce621944242d5a884a59.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",FUTEBOL (HOJE)
 http://cdn7go.xyz:8080/live/TcyL3jTH/23434a24322fr/197699.m3u8
-#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="iMPlayer" tvg-logo="http://7go.xyz:8080/images/ef5f02cae5b40d9dc20a97f89fb2b3d9.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",iMPlayer
-http://m3u4u.com/m3u/v158yx6p37c6zew8y9mw
-#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="IMPLAYER" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",IMPLAYER
-https://m3u4u.com/m3u/v158yx6p37c6zew8y9mw
 #EXTINF:-1 tvg-id="m3u4u.com" tvg-name="M3U4U.COM" tvg-logo="http://7go.xyz:8080/images/ef5f02cae5b40d9dc20a97f89fb2b3d9.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",M3U4U.COM
-http://m3u4u.com/m3u/j67zn6x118sq4x38nd1w
-#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="M3U4U.COM" tvg-logo="http://7go.xyz:8080/images/ef5f02cae5b40d9dc20a97f89fb2b3d9.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",M3U4U.COM
-http://m3u4u.com/m3u/dqr6ywm5wxfmzxr1yx1w
+http://m3u4u.com/m3u/26p5n3jr29cx5p86yv7j
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVAS SERIES" tvg-logo="http://7go.xyz:8080/images/4c3a822b4fd87e078959bdd23e9d2bc9.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",NOVAS SERIES
 http://cdn7go.xyz:8080/live/TcyL3jTH/23434a24322fr/197700.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOVOS FILMES" tvg-logo="http://7go.xyz:8080/images/b7f5a8e54263ceaa718aae93d94345d2.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",NOVOS FILMES
 http://cdn7go.xyz:8080/live/TcyL3jTH/23434a24322fr/197696.m3u8
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="O DIA TV" tvg-logo="https://i.imgur.com/xbPIEDD.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",O DIA TV
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1921501568.m3u8
-#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="TiviMate" tvg-logo="http://7go.xyz:8080/images/ef5f02cae5b40d9dc20a97f89fb2b3d9.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",TiviMate
-http://m3u4u.com/m3u/26p5n3j99raxx4jwyv7j
-#EXTINF:-1 tvg-id="m3u4u.com" tvg-name="TIVIMATE" tvg-logo="https://m3u4u.com/assets/logo1.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",TIVIMATE
-http://m3u4u.com/m3u/26p5n3j99raxx4jwyv7j
 #EXTINF:-1 tvg-id="AssembleiaLegislativaCeara.br" tvg-name="TV ASSEMBLEIA" tvg-logo="https://i.imgur.com/8EKqBY2.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",TV ASSEMBLEIA
 https://stmv1.srvstm.com/piaui7026/piaui7026/chunklist_w150181887.m3u8
 #EXTINF:-1 tvg-id="TVCidadeVerde.br" tvg-name="TV CIDADE VERDE PICOS" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",TV CIDADE VERDE PICOS
