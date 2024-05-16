@@ -1,4 +1,7 @@
-﻿#EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3j99raxx4jwyv7j"
+﻿#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9v62gfw9x37nxr5"
+#EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3jr29cx5p86yv7j"
+
+#EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3j99raxx4jwyv7j"
 #EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3jr29cq3zjmyv7j"
 #EXTM3U url-tvg="http://m3u4u.com/epg/3m97yp6gkdh5evvzydxq"
 #EXTM3U url-tvg="http://m3u4u.com/epg/dqr6ywm5wxfmzxr1yx1w"
