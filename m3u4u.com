@@ -1,14 +1,6 @@
 ﻿#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9v62gfw9x37nxr5"
 #EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3jr29cx5p86yv7j"
 
-#EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3j99raxx4jwyv7j"
-#EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3jr29cq3zjmyv7j"
-#EXTM3U url-tvg="http://m3u4u.com/epg/3m97yp6gkdh5evvzydxq"
-#EXTM3U url-tvg="http://m3u4u.com/epg/dqr6ywm5wxfmzxr1yx1w"
-#EXTM3U url-tvg="http://m3u4u.com/epg/j67zn6x118sq4x38nd1w"
-#EXTM3U url-tvg="http://m3u4u.com/epg/p192y715q9a3megeymeg"
-#EXTM3U url-tvg="http://m3u4u.com/epg/v158yx6p37c6zew8y9mw"
-
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",ANTENA 10
 https://manifest.googlevideo.com/api/manifest/dash/expire/1707432931/ei/gwfFZcbBG_-J-LAPv8ewwAc/ip/45.164.59.240/id/-X7n_pSZ8U0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/spc/UWF9f5S9fGzPMotxkOGRFVDe1aMEfDfqFzqv7G7RwZZP70I/vprv/1/pacing/0/keepalive/yes/fexp/24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cas%2Cspc%2Cvprv%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAN6ja9s9FZZtG7TddHQFgRxOjofT_5LmjukwZNLm7opQAiEAyrnyNNhaCFceTQz5emTPKY50FlgNN3jmUgG4iclu8vk%3D
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",ANTENA 10
@@ -39,22 +31,6 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1094170448.m3u8
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="TV GALLO" tvg-logo="https://i.imgur.com/Go7equc.png" group-title="0 - CANAIS |  ESPAÇO DO CLIENTE",TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w974707802.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A GRANDE CONQUISTA 1 HD²" tvg-logo="http://7vnx.xyz/logos/agrandeconquistahd.png" group-title="0 - CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 1 HD²
-http://cdn7go.xyz:8080/live/TcyL3jTH/23434a24322fr/332226.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A GRANDE CONQUISTA 1 HD¹" tvg-logo="http://7vnx.xyz/logos/agrandeconquistahd.png" group-title="0 - CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 1 HD¹
-http://cdn7go.xyz:8080/live/TcyL3jTH/23434a24322fr/332230.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A GRANDE CONQUISTA 2 HD²" tvg-logo="http://7vnx.xyz/logos/agrandeconquistahd.png" group-title="0 - CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 2 HD²
-http://cdn7go.xyz:8080/live/TcyL3jTH/23434a24322fr/332227.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A GRANDE CONQUISTA 2 HD¹" tvg-logo="http://7vnx.xyz/logos/agrandeconquistahd.png" group-title="0 - CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 2 HD¹
-http://cdn7go.xyz:8080/live/TcyL3jTH/23434a24322fr/332231.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A GRANDE CONQUISTA 3 HD²" tvg-logo="http://7vnx.xyz/logos/agrandeconquistahd.png" group-title="0 - CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 3 HD²
-http://cdn7go.xyz:8080/live/TcyL3jTH/23434a24322fr/332228.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A GRANDE CONQUISTA 3 HD¹" tvg-logo="http://7vnx.xyz/logos/agrandeconquistahd.png" group-title="0 - CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 3 HD¹
-http://cdn7go.xyz:8080/live/TcyL3jTH/23434a24322fr/332232.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A GRANDE CONQUISTA 4 HD²" tvg-logo="http://7vnx.xyz/logos/agrandeconquistahd.png" group-title="0 - CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 4 HD²
-http://cdn7go.xyz:8080/live/TcyL3jTH/23434a24322fr/332229.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A GRANDE CONQUISTA 4 HD¹" tvg-logo="http://7vnx.xyz/logos/agrandeconquistahd.png" group-title="0 - CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 4 HD¹
-http://cdn7go.xyz:8080/live/TcyL3jTH/23434a24322fr/332233.m3u8
 #EXTINF:-1 tvg-id="CNTRio.br" tvg-name="CNT FHD¹" tvg-logo="http://7vnx.xyz/logos/cntfhd.png" group-title="0 - CANAIS | ABERTOS",CNT FHD¹
 http://cdn7go.xyz:8080/live/TcyL3jTH/23434a24322fr/18916.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COM BRASIL TV FHD¹" tvg-logo="http://7vnx.xyz/logos/combrasilfhd.png" group-title="0 - CANAIS | ABERTOS",COM BRASIL TV FHD¹
